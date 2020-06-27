@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market Uygulaması", "Market Uygulaması\Market Uygulaması.csproj", "{632ADD59-3359-4E15-A0C4-8608D748E1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632ADD59-3359-4E15-A0C4-8608D748E1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632ADD59-3359-4E15-A0C4-8608D748E1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632ADD59-3359-4E15-A0C4-8608D748E1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632ADD59-3359-4E15-A0C4-8608D748E1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

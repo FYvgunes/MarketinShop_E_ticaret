@@ -1,0 +1,5 @@
+/Users/kullanici/RiderProjects/Market Uygulaması/Market Uygulaması/obj/Debug/netcoreapp3.1/Market Uygulaması.csprojAssemblyReference.cache
+/Users/kullanici/RiderProjects/Market Uygulaması/Market Uygulaması/obj/Debug/netcoreapp3.1/Market Uygulaması.AssemblyInfoInputs.cache
+/Users/kullanici/RiderProjects/Market Uygulaması/Market Uygulaması/obj/Debug/netcoreapp3.1/Market Uygulaması.AssemblyInfo.cs
+/Users/kullanici/RiderProjects/Market Uygulaması/Market Uygulaması/obj/Debug/netcoreapp3.1/Market Uygulaması.csproj.CoreCompileInputs.cache
+/Users/kullanici/RiderProjects/Market Uygulaması/Market Uygulaması/obj/Debug/netcoreapp3.1/Market Uygulaması.MvcApplicationPartsAssemblyInfo.cache
